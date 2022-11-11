@@ -1,6 +1,6 @@
 package br.com.fiap.moverakiapi.dto;
 
-public record UsuarioDto (Long id, String name, String email){
+public class UsuarioDto (Long id, String name, String email){
     
 
 }
