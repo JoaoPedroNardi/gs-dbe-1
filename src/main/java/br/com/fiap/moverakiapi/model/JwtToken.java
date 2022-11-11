@@ -1,5 +1,5 @@
 package br.com.fiap.moverakiapi.model;
 
-public record JwtToken (String token, String type){
+public class JwtToken (String token, String type){
     
 }
